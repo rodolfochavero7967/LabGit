@@ -13,7 +13,7 @@
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu.email@example.com"
 ```
-3. [Forkea repositorio](https://github.com/gigabyte-codespace/laboratorios-git.git)
+3. [Forkea repositorio](https://github.com/Daventor/LabGit)
 
 4. Clona el repositorio que se FORKeo en el punto 3 
 ```bash
